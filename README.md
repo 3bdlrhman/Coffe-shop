@@ -1,6 +1,6 @@
-# Coffee Shop Full Stack
+# Coffee Shop
 
-## Full Stack Nano - IAM Final Project
+## Full Stack Project
 
 Udacity has decided to open a new digitally enabled cafe for students to order drinks, socialize, and study hard. But they need help setting up their menu experience.
 
