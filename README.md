@@ -1,12 +1,12 @@
 # Coffee Shop
 
-Digitally enabled cafe for visitors to order drinks, barista could see the recipe and Manager add or remove a drink.
-This applicatio simply do CRUD operations.
+Cafe for visitors to order drinks, show graphics representing the ratios of ingredients in each drink.
+This application simply do CRUD operations.
 
 also, These are a Role Based operations which means:
 - Manager role: read, add, update or delete drinks
-- Barista: read the drinks and its recipe
-- visitors: these are available for public info( the available drinks ).
+- Barista role: read the drinks and its recipe
+- visitors role: these are available for public info( the available drinks ).
 
 i  managed to do so using the JWT concept of Auth0 service
 after singing in the user then get a token from Auth0 this token contains which permission is allowed for this user
